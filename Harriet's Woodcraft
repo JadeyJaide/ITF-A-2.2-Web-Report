@@ -116,12 +116,12 @@
  
        <!-- Image and name container -->
        <div style="text-align: center">
-        <h1 class="name"><span class="name w3-padding w3-round" style="font-weight: bolder;">Harriet's Wood Craft: Jewelry Boutique Where Woodwork Meets Elegance       
+        <h1 class="name"><span class="name w3-padding w3-round" style="font-weight: bolder;">Harriet's Wood Crafting: Jewelry Boutique Where Woodwork Meets Elegance       
           </span></h1>
               </span>
 </h2>
 <body>
-    <h1 class="name"><span class="name w3-padding w3-round" style="font-weight: bolder;">Hello, I'm Harriet Boone and here is something about me</span></h1>
+    <h1 class="name"><span class="name w3-padding w3-round" style="font-weight: bolder;">Hello, I'm Harriet Boone, Welcome to my Blog. And here are my story..</span></h1>
     Lorem Ipsum
     "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
     "There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain..."
@@ -135,7 +135,7 @@
     
     Curabitur ut blandit magna, id tristique odio. In hac habitasse platea dictumst. Aenean lorem dui, bibendum vel lectus vitae, condimentum molestie risus. Morbi id dignissim erat. Nunc interdum ex sem. Morbi non ultricies lectus, nec aliquet ante. Integer vitae felis elementum, dapibus nibh nec, luctus ipsum. Etiam nec velit vel magna dignissim lacinia. Ut id ligula non metus convallis porta sit amet et orci. Morbi non posuere libero. Praesent quis eleifend ante, vel eleifend sem. Nunc scelerisque leo at velit iaculis hendrerit.
     
-    Maecenas vitae quam vel massa volutpat pellentesque. Duis vehicula euismod leo a dignissim. Fusce pretium, ante ut ultrices dictum, urna diam tincidunt nisi, vel interdum mi velit vel quam. Morbi non nunc eget lorem feugiat accumsan. Nulla nunc diam, sagittis nec euismod vitae, tempor vel orci. Nulla lobortis neque eu tellus aliquet, nec tincidunt turpis pharetra. Morbi eros mauris, hendrerit et vulputate at, convallis ut dolor. Curabitur accumsan maximus eros non maximus. Ut eu eleifend magna, at aliquam lorem. Fusce neque nisi, accumsan bibendum ornare eget, semper sed lectus. Cras laoreet ultricies ante in malesuada. Sed justo sem, auctor efficitur tellus a, mattis consectetur erat.
+    Maecenas vitae quam vel massa volutpat pellentesque. Duis vehicula euismod leo a dignissim. Fusce pretium, ante ut ultrices dictum, urna diam tincidunt nisi, vel interdum mi velit vel quam. Morbi non nunc eget lorem feugiat accumsan. Nulla nunc diam, sagittis nec euismod vitae, tempor vel orci. Nulla lobortis neque eu tellus aliquet, nec tincidunt turpis pharetra. Morbi eros mauris, hendrerit et vulputate at, convallis ut dolor. Curabitur accumsan maximus eros non maximus. Ut eu eleifend magna, at aliquam lorem. 
 
 </body>
 
@@ -159,9 +159,9 @@
        <!-- Links section 1 -->
        <div class="links-container">
          <a href="https://www.etsy.com/au/shop/MyEnchantedMarket?ref=l2-about-shopname" class="w3-button w3-round w3-orange w3-hover-blue-grey link skew-1" target="_blank"><span class="skew-text-1">Check out my Shop on Etsy!</span></a>
-         <a href="https://www.facebook.com/harriet.boone.148" class="w3-button w3-round w3-blue w3-hover-blue-grey link skew-1" target="_blank"><span class="skew-text-1">Check my Facebook!</span></a>
-         <a href="https://www.instagram.com/silvaticadesigns/" class="w3-button w3-round w3-purple w3-hover-blue-grey link skew-1" target="_blank"><span class="skew-text-1">Check my Instagram!</span></a>
-         <a href="https://www.youtube.com/watch?v=qemFvUNXMVU/" class="w3-button w3-round w3-red w3-hover-blue-grey link skew-1" target="_blank"><span class="skew-text-1">Check my Youtube Channel!</span></a>
+         <a href="https://www.facebook.com/harriet.boone.148" class="w3-button w3-round w3-blue w3-hover-blue-grey link skew-1" target="_blank"><span class="skew-text-1">Let's be Facebook Friends!</span></a>
+         <a href="https://www.instagram.com/silvaticadesigns/" class="w3-button w3-round w3-purple w3-hover-blue-grey link skew-1" target="_blank"><span class="skew-text-1">Follow me on Instagram!</span></a>
+         <a href="https://www.youtube.com/watch?v=qemFvUNXMVU/" class="w3-button w3-round w3-red w3-hover-blue-grey link skew-1" target="_blank"><span class="skew-text-1">Check out my Vlog on Youtube</span></a>
          <a href="#" class="w3-button w3-round w3-light-blue w3-hover-blue-grey link skew-1" target="_blank"><span class="skew-text-1">Check my Blog!</span></a>
          
        </div>
